@@ -1,1 +1,1 @@
-<p align="center"><img src="https://i.redd.it/t21l5ydvdaod1.png" width=350></p>
+<p align="center"><a href="https://xkcd.com/1319/"><img src="https://imgs.xkcd.com/comics/automation.png"></a></p>
